@@ -2,7 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+test.csv
+train.csv
+1/
 # C extensions
 *.so
 
@@ -169,3 +171,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+Archive.zip
